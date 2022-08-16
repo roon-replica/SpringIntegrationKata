@@ -1,9 +1,14 @@
 # 참고 자료
 - [spring integration example github](https://github.com/SimpleProgramming/spring-integration-example)
 - [spring integration docs](https://docs.spring.io/spring-integration/reference/html/index.html)
-
+- spring in action 챕터 9(스프링 통합하기)
 
 # 주요 개념
+- message
+- message channel
+- service activator
+- transformer
+
 - Message Endpoint
   - pipes-and-filters 아키텍처에서 필터 역할? 
   - 애플리케이션 코드를 메세지 프레임워크에 non-invasive하게 연결하는 역할. 
